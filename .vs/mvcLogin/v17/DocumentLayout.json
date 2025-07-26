@@ -1,0 +1,154 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\mvcLogin\\mvcLogin\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{044AEEAD-6D33-4E45-AA43-6865A7FB9716}|mvcLogin\\mvcLogin.csproj|e:\\mvclogin\\mvclogin\\mvclogin\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{044AEEAD-6D33-4E45-AA43-6865A7FB9716}|mvcLogin\\mvcLogin.csproj|solutionrelative:mvclogin\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{044AEEAD-6D33-4E45-AA43-6865A7FB9716}|mvcLogin\\mvcLogin.csproj|e:\\mvclogin\\mvclogin\\mvclogin\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{044AEEAD-6D33-4E45-AA43-6865A7FB9716}|mvcLogin\\mvcLogin.csproj|solutionrelative:mvclogin\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{044AEEAD-6D33-4E45-AA43-6865A7FB9716}|mvcLogin\\mvcLogin.csproj|e:\\mvclogin\\mvclogin\\mvclogin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{044AEEAD-6D33-4E45-AA43-6865A7FB9716}|mvcLogin\\mvcLogin.csproj|solutionrelative:mvclogin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{044AEEAD-6D33-4E45-AA43-6865A7FB9716}|mvcLogin\\mvcLogin.csproj|e:\\mvclogin\\mvclogin\\mvclogin\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{044AEEAD-6D33-4E45-AA43-6865A7FB9716}|mvcLogin\\mvcLogin.csproj|solutionrelative:mvclogin\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{044AEEAD-6D33-4E45-AA43-6865A7FB9716}|mvcLogin\\mvcLogin.csproj|e:\\mvclogin\\mvclogin\\mvclogin\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{044AEEAD-6D33-4E45-AA43-6865A7FB9716}|mvcLogin\\mvcLogin.csproj|solutionrelative:mvclogin\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{044AEEAD-6D33-4E45-AA43-6865A7FB9716}|mvcLogin\\mvcLogin.csproj|e:\\mvclogin\\mvclogin\\mvclogin\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{044AEEAD-6D33-4E45-AA43-6865A7FB9716}|mvcLogin\\mvcLogin.csproj|solutionrelative:mvclogin\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{044AEEAD-6D33-4E45-AA43-6865A7FB9716}|mvcLogin\\mvcLogin.csproj|e:\\mvclogin\\mvclogin\\mvclogin\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{044AEEAD-6D33-4E45-AA43-6865A7FB9716}|mvcLogin\\mvcLogin.csproj|solutionrelative:mvclogin\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{044AEEAD-6D33-4E45-AA43-6865A7FB9716}|mvcLogin\\mvcLogin.csproj|e:\\mvclogin\\mvclogin\\mvclogin\\data\\migrations\\20250718010903_dblogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{044AEEAD-6D33-4E45-AA43-6865A7FB9716}|mvcLogin\\mvcLogin.csproj|solutionrelative:mvclogin\\data\\migrations\\20250718010903_dblogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 288,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\mvcLogin\\mvcLogin\\mvcLogin\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "mvcLogin\\Views\\Home\\Index.cshtml",
+              "ToolTip": "E:\\mvcLogin\\mvcLogin\\mvcLogin\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "mvcLogin\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-25T23:34:21.476Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "E:\\mvcLogin\\mvcLogin\\mvcLogin\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "mvcLogin\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ToolTip": "E:\\mvcLogin\\mvcLogin\\mvcLogin\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeToolTip": "mvcLogin\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-25T23:33:47.225Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20250718010903_dbLogin.cs",
+              "DocumentMoniker": "E:\\mvcLogin\\mvcLogin\\mvcLogin\\Data\\Migrations\\20250718010903_dbLogin.cs",
+              "RelativeDocumentMoniker": "mvcLogin\\Data\\Migrations\\20250718010903_dbLogin.cs",
+              "ToolTip": "E:\\mvcLogin\\mvcLogin\\mvcLogin\\Data\\Migrations\\20250718010903_dbLogin.cs",
+              "RelativeToolTip": "mvcLogin\\Data\\Migrations\\20250718010903_dbLogin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T01:09:05.648Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Register.cshtml.cs",
+              "DocumentMoniker": "E:\\mvcLogin\\mvcLogin\\mvcLogin\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeDocumentMoniker": "mvcLogin\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ToolTip": "E:\\mvcLogin\\mvcLogin\\mvcLogin\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeToolTip": "mvcLogin\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAH8AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T00:58:57.358Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "E:\\mvcLogin\\mvcLogin\\mvcLogin\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "mvcLogin\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ToolTip": "E:\\mvcLogin\\mvcLogin\\mvcLogin\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeToolTip": "mvcLogin\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ViewState": "AgIAADYAAAAAAAAAAAAswDsAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-18T00:58:51.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\mvcLogin\\mvcLogin\\mvcLogin\\appsettings.json",
+              "RelativeDocumentMoniker": "mvcLogin\\appsettings.json",
+              "ToolTip": "E:\\mvcLogin\\mvcLogin\\mvcLogin\\appsettings.json",
+              "RelativeToolTip": "mvcLogin\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAACpAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-18T00:47:38.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\mvcLogin\\mvcLogin\\mvcLogin\\Program.cs",
+              "RelativeDocumentMoniker": "mvcLogin\\Program.cs",
+              "ToolTip": "E:\\mvcLogin\\mvcLogin\\mvcLogin\\Program.cs",
+              "RelativeToolTip": "mvcLogin\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABrAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T00:57:08.172Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "E:\\mvcLogin\\mvcLogin\\mvcLogin\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "mvcLogin\\ScaffoldingReadMe.txt",
+              "ToolTip": "E:\\mvcLogin\\mvcLogin\\mvcLogin\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "mvcLogin\\ScaffoldingReadMe.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-07-18T00:53:29.262Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
